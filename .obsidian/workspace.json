@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documento HTML/7. FORMULÁRIOS.md",
-                "mode": "source",
+                "file": "documento HTML/8. HTML SEMÂNTICO.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. FORMULÁRIOS"
+              "title": "8. HTML SEMÂNTICO"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 571.5,
+    "collapsed": true
   },
   "right": {
     "id": "330fabd78c7fdf9f",
@@ -172,13 +173,19 @@
   },
   "active": "4f72b75477d260c1",
   "lastOpenFiles": [
+    "imagens/html-semantico.svg",
+    "imagens/html-nao-semantico.svg",
+    "documento HTML/8. HTML SEMÂNTICO.md",
+    "imagens/Gemini_Generated_Image_9prfvk9prfvk9prf.png",
+    "imagens/Unconfirmed 794558.crdownload",
+    "imagens",
     "documento HTML/7. FORMULÁRIOS.md",
-    "documento HTML/5. ELEMENTOS DE BLOCO, ELEMENTOS DE LINHA E CONTAINERS.md",
     "documento HTML/6. TABELAS.md",
-    "documento HTML/3. ATRIBUTOS DOS ELEMENTOS HTML.md",
+    "documento HTML/5. ELEMENTOS DE BLOCO, ELEMENTOS DE LINHA E CONTAINERS.md",
     "documento HTML/4. LISTAS HTML.md",
-    "documento HTML/1. INTRODUCAO AO HTML.md",
+    "documento HTML/3. ATRIBUTOS DOS ELEMENTOS HTML.md",
     "documento HTML/2. ELEMENTOS HTML.md",
+    "documento HTML/1. INTRODUCAO AO HTML.md",
     "documento HTML/ESTRUTURA BÁSICA DO HTML.md"
   ]
 }
