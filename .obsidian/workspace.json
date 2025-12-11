@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "70d99510ae85bcdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f208b898402ebca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "632364784bae7559",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5a0f7731363b7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "946749930c78f22d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec739171f29e711",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0159445727531a68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "23698064991eada5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.5
+  },
+  "right": {
+    "id": "330fabd78c7fdf9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c38ffaae0e0b031",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c677ff8fd2e9cc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "documento HTML/LISTAS HTML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LISTAS HTML"
+            }
+          },
+          {
+            "id": "fd787725d3b15604",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "documento HTML/LISTAS HTML.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LISTAS HTML"
+            }
+          },
+          {
+            "id": "f0a42c9b72cbe1d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "84af7e837a8889b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "documento HTML/LISTAS HTML.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LISTAS HTML"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "gnome-terminal-loader:Gnome Terminal": false,
+      "gnome-terminal-loader:main.py (Gnome Terminal)": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "632364784bae7559",
+  "lastOpenFiles": [
+    "CSS/1. INTRODUÇÃO AO CSS.md",
+    "Excalidraw/css sintaxe.md",
+    "CSS/2. Cores, Tipografia e Background.md",
+    "Git/7. Branches.md",
+    "Git/6. Trabalhando com repositório remoto.md",
+    "HTML/8. HTML SEMÂNTICO.md",
+    "HTML/9. BOAS PRÁTICAS.md",
+    "Excalidraw/Drawing 2025-11-21 16.02.12.excalidraw.md",
+    "HTML/2. ELEMENTOS HTML.md",
+    "HTML/1. INTRODUCAO AO HTML.md",
+    "CSS.md",
+    "CSS",
+    "Excalidraw/Drawing 2025-11-25 08.31.15.excalidraw.md",
+    "Excalidraw/git-historico.md",
+    "main.py",
+    "Git/4. Criando o primeiro repositório Git.md",
+    "imagens/pr-approved.png",
+    "imagens/pr.png",
+    "imagens/pr-example.png",
+    "imagens/git-merge.png",
+    "Excalidraw/Untitled.md",
+    "imagens/git-switch.png",
+    "imagens/git-branch-new-status.png",
+    "imagens/git-branch-new.png",
+    "Git/3. Primeira configuração.md",
+    "imagens/git-branch.png",
+    "Excalidraw",
+    "imagens/branch.png",
+    "imagens/Unconfirmed 60319.crdownload",
+    "imagens/git-pull.png",
+    "Git/5. Registrando mudanças no repositório git.md",
+    "Excalidraw/Drawing 2025-11-20 23.41.14.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-20 23.40.48.excalidraw.md",
+    "imagens/Unconfirmed 901902.crdownload",
+    "Git/2. Os três estados.md",
+    "Git/1. Introdução ao Git.md",
+    "Git/Atividade.md",
+    "imagens/Unconfirmed 982131.crdownload",
+    "HTML/10. EXERCÍCIOS.md",
+    "Git",
+    "imagens/Unconfirmed 794558.crdownload",
+    "imagens",
+    "HTML/7. FORMULÁRIOS.md",
+    "HTML/6. TABELAS.md",
+    "HTML/5. ELEMENTOS DE BLOCO, ELEMENTOS DE LINHA E CONTAINERS.md"
+  ]
+}
