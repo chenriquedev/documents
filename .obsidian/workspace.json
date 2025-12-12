@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1f208b898402ebca",
+        "id": "205d85299730e1a0",
         "type": "tabs",
         "children": [
           {
-            "id": "632364784bae7559",
+            "id": "ed9134c76013861e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Exercicio basico.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Exercicio basico"
             }
           }
         ]
@@ -165,27 +169,36 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "632364784bae7559",
+  "active": "ed9134c76013861e",
   "lastOpenFiles": [
-    "CSS/1. INTRODUÇÃO AO CSS.md",
-    "Excalidraw/css sintaxe.md",
     "CSS/2. Cores, Tipografia e Background.md",
+    "CSS/1. INTRODUÇÃO AO CSS.md",
     "Git/7. Branches.md",
     "Git/6. Trabalhando com repositório remoto.md",
+    "Git/5. Registrando mudanças no repositório git.md",
+    "Git/4. Criando o primeiro repositório Git.md",
+    "Git/3. Primeira configuração.md",
+    "Git/2. Os três estados.md",
+    "Git/1. Introdução ao Git.md",
     "HTML/8. HTML SEMÂNTICO.md",
+    "HTML/7. FORMULÁRIOS.md",
+    "HTML/6. TABELAS.md",
+    "HTML/5. ELEMENTOS DE BLOCO, ELEMENTOS DE LINHA E CONTAINERS.md",
+    "HTML/3. ATRIBUTOS DOS ELEMENTOS HTML.md",
+    "HTML/2. ELEMENTOS HTML.md",
+    "Excalidraw/css sintaxe.md",
     "HTML/9. BOAS PRÁTICAS.md",
     "Excalidraw/Drawing 2025-11-21 16.02.12.excalidraw.md",
-    "HTML/2. ELEMENTOS HTML.md",
     "HTML/1. INTRODUCAO AO HTML.md",
     "CSS.md",
     "CSS",
     "Excalidraw/Drawing 2025-11-25 08.31.15.excalidraw.md",
     "Excalidraw/git-historico.md",
     "main.py",
-    "Git/4. Criando o primeiro repositório Git.md",
     "imagens/pr-approved.png",
     "imagens/pr.png",
     "imagens/pr-example.png",
@@ -194,26 +207,18 @@
     "imagens/git-switch.png",
     "imagens/git-branch-new-status.png",
     "imagens/git-branch-new.png",
-    "Git/3. Primeira configuração.md",
     "imagens/git-branch.png",
     "Excalidraw",
     "imagens/branch.png",
     "imagens/Unconfirmed 60319.crdownload",
     "imagens/git-pull.png",
-    "Git/5. Registrando mudanças no repositório git.md",
     "Excalidraw/Drawing 2025-11-20 23.41.14.excalidraw.md",
     "Excalidraw/Drawing 2025-11-20 23.40.48.excalidraw.md",
     "imagens/Unconfirmed 901902.crdownload",
-    "Git/2. Os três estados.md",
-    "Git/1. Introdução ao Git.md",
     "Git/Atividade.md",
     "imagens/Unconfirmed 982131.crdownload",
-    "HTML/10. EXERCÍCIOS.md",
     "Git",
     "imagens/Unconfirmed 794558.crdownload",
-    "imagens",
-    "HTML/7. FORMULÁRIOS.md",
-    "HTML/6. TABELAS.md",
-    "HTML/5. ELEMENTOS DE BLOCO, ELEMENTOS DE LINHA E CONTAINERS.md"
+    "imagens"
   ]
 }
